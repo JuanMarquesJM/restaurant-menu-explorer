@@ -24,7 +24,7 @@ To run this project, you'll need the following dependencies:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/DonGraeff/restaurant-menu-explorer
+    git clone https://github.com/JuanMarquesJM/restaurant-menu-explorer
     cd restaurant-menu-explorer
     ```
 
